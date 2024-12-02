@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+plotly
+ipywidgets 
+IPython
+yfinance
+finvizfinance
+voila
